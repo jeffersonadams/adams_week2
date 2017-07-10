@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+.header{
+  color: lightgrey;
+  text-align: center;
+  font-family: "Times New Roman";
+}
+.header:hover{
+  font-size: 100px;
+}
+.login{
+  background-color: white;
+  position: relative;
+  width: 300px;
+  height: 350px;
+  /*margin-left: auto;
+  margin-right: auto;*/
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+  padding-top: 10%;
+}
+.input{
+  width: 80%;
+  /*margin-left: auto;
+  margin-right: auto;*/
+  margin: 10px auto;
+
+}
+#email, #password{
+  margin-bottom: 10px;
+  width: 80%;
+  margin: 10px auto;
+}
+#signin{
+  width: 80%;
+  height: 30px;
+  margin: 10px auto;
+  background-color: black;
+  color: white;
+}
+#signin:hover{
+  opacity: 0.5;
+}
+.recover{
+  
+}
